@@ -2,10 +2,9 @@
 
 ## About Me
 * I'm [@xryshirfxn](https://github.com/xryshirfxn).
-* I'm a 14 years old developer.
-* I'm working with [@EpicGames](https://github.com/EpicGames), [@micro-console](https://github.com/micro-console) and [@low-level-typescript](https://github.com/low-level-typescript).
-* I'm learning C#, Ruby and Lua.
+* I'm a (soon to be) 15 years old developer.
 * I mainly work with ASM, C, C++, Rust, JS, TS, Python, Swift, Kotlin.
+* I'm currently learning C#, Ruby and Lua.
 * I'm a [Naruto](https://en.wikipedia.org/wiki/Naruto) fan.
 
 ## Stats
