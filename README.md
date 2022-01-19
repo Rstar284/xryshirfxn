@@ -1,4 +1,4 @@
-# xryshirfxn
+# Xrysh
 
 ## 👋 About Me
 * I'm [@xryshirfxn](https://github.com/xryshirfxn).
