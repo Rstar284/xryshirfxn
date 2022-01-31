@@ -1,6 +1,9 @@
 # Xrysh
 
+Personal GitHub profile README.
+
 ## About Me
+
 * I'm [@xryshirfxn](https://github.com/xryshirfxn).
 * I'm a (soon to be) 15 years old developer.
 * I mainly work with ASM, C, C++, Rust, JS, TS, Python, Swift, Kotlin.
